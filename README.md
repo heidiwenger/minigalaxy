@@ -31,6 +31,7 @@ Currently Minigalaxy can be displayed in the following languages:
 - Brazilian Portuguese
 - English
 - Dutch
+- Finnish
 - French
 - German
 - Norwegian Bokmål
